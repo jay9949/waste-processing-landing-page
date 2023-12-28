@@ -5,8 +5,8 @@ import cat3 from "../../assets/category3.png";
 
 const Category = () => {
   return (
-    <div className="w-[1400px] m-auto">
-      <div className="text flex justify-around text-center items-center mx-[191px] pt-[74px] mb-[167px] text-[#222831]">
+    <div className="max-w-[1400px] m-auto">
+      <div className="text flex justify-center gap-24 text-center items-center  pt-[74px] mb-[167px] text-[#222831]">
         <div>
           <h1 className="text-[48px] font-semibold">200+</h1>
           <h3 className="text-[28px] font-semibold">Member</h3>
