@@ -28,37 +28,37 @@ const Footer = () => {
           <h5 className="text-white text-[20px] font-semibold pb-[41px]">
             Company
           </h5>
-          <h6 className="text-white text-[16px] font-normal pb-[24px]">
+          <h6 className="text-white cursor-pointer text-[16px] font-normal pb-[24px]">
             About
           </h6>
-          <h6 className="text-white text-[16px] font-normal pb-[24px]">
+          <h6 className="text-white cursor-pointer text-[16px] font-normal pb-[24px]">
             Careers
           </h6>
-          <h6 className="text-white text-[16px] font-normal">Mobile</h6>
+          <h6 className="text-white cursor-pointer text-[16px] font-normal">Mobile</h6>
         </div>
         <div>
           <h5 className="text-white text-[20px] font-semibold pb-[41px]">
             Contact
           </h5>
-          <h6 className="text-white text-[16px] font-normal pb-[24px]">
+          <h6 className="text-white cursor-pointer text-[16px] font-normal pb-[24px]">
             Help/FAQ
           </h6>
-          <h6 className="text-white text-[16px] font-normal pb-[24px]">
+          <h6 className="text-white cursor-pointer text-[16px] font-normal pb-[24px]">
             Press
           </h6>
-          <h6 className="text-white text-[16px] font-normal">Affilates</h6>
+          <h6 className="text-white cursor-pointer text-[16px] font-normal">Affilates</h6>
         </div>
         <div>
           <h5 className="text-white text-[20px] font-semibold pb-[41px]">
             More
           </h5>
-          <h6 className="text-white text-[16px] font-normal pb-[24px]">
+          <h6 className="text-white cursor-pointer text-[16px] font-normal pb-[24px]">
             Airlinefees
           </h6>
-          <h6 className="text-white text-[16px] font-normal pb-[24px]">
+          <h6 className="text-white cursor-pointer text-[16px] font-normal pb-[24px]">
             Airline
           </h6>
-          <h6 className="text-white text-[16px] font-normal">Low fare tips</h6>
+          <h6 className="text-white cursor-pointer text-[16px] font-normal">Low fare tips</h6>
         </div>
         <div>
           <h5 className="text-white text-[20px] font-semibold">
@@ -285,7 +285,7 @@ const Footer = () => {
             </div>
           </div>
           <div className="pt-[15px] flex gap-[25px]">
-            <div className="bg-[#016A70] pt-[14px] pl-[17.57px] pr-[17.57px] pb-[13px] rounded-full">
+            <div className="bg-[#016A70] pt-[14px] pl-[17.57px] pr-[17.57px] pb-[13px] rounded-full  cursor-pointer">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="7"
@@ -301,7 +301,7 @@ const Footer = () => {
                 />
               </svg>
             </div>
-            <div className="bg-[#016A70] pt-[14px] pl-[17.57px] pr-[15.57px] pb-[15px] rounded-full">
+            <div className="bg-[#016A70] pt-[14px] pl-[17.57px] pr-[15.57px] pb-[15px] rounded-full  cursor-pointer">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="16"
@@ -323,7 +323,7 @@ const Footer = () => {
                 />
               </svg>
             </div>
-            <div className="bg-[#016A70] pt-[17px] pl-[17.57px] pr-[15.57px] pb-[15px] rounded-full">
+            <div className="bg-[#016A70] pt-[17px] pl-[17.57px] pr-[15.57px] pb-[15px] rounded-full  cursor-pointer">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="16"

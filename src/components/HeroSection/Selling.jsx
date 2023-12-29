@@ -38,7 +38,7 @@ const Selling = () => {
                 <h1 className="text-[20px] text-center font-[600] text-[#222831] max-w-[10rem]">
                   Plastic PETE /PET Bottle
                 </h1>
-                <h3 className="text-center text-[16px] text-[#222831]">
+                <h3 className="text-center text-[16px] text-[#222831] cursor-pointer hover:text-[23px] hover:font-semibold hover:text-[#016A70] hover:duration-300 duration-300">
                   Sell Now
                 </h3>
               </div>
@@ -56,7 +56,7 @@ const Selling = () => {
                 <h1 className="text-[20px] text-center font-[600] text-[#222831] max-w-[10rem]">
                   Glass Bottle
                 </h1>
-                <h3 className="text-center text-[16px] text-[#222831] pt-6">
+                <h3 className="text-center text-[16px] text-[#222831] pt-6 cursor-pointer hover:text-[23px] hover:font-semibold hover:text-[#016A70] hover:duration-300 duration-300">
                   Sell Now
                 </h3>
               </div>
@@ -74,7 +74,7 @@ const Selling = () => {
                 <h1 className="text-[20px] text-center font-[600] text-[#222831] max-w-[10rem]">
                   Polypropylene Plastic
                 </h1>
-                <h3 className="text-center text-[16px] text-[#222831]">
+                <h3 className="text-center text-[16px] text-[#222831] cursor-pointer hover:text-[23px] hover:font-semibold hover:text-[#016A70] hover:duration-300 duration-300">
                   Sell Now
                 </h3>
               </div>
@@ -93,7 +93,7 @@ const Selling = () => {
                 <h1 className="text-[20px] text-center font-[600] text-[#222831] max-w-[10rem]">
                   Plastic Bag
                 </h1>
-                <h3 className="text-center text-[16px] text-[#222831]">
+                <h3 className="text-center text-[16px] text-[#222831] cursor-pointer hover:text-[23px] hover:font-semibold hover:text-[#016A70] hover:duration-300 duration-300">
                   Sell Now
                 </h3>
               </div>
@@ -113,7 +113,7 @@ const Selling = () => {
                 <h1 className="text-[20px] text-center font-[600] text-[#222831] max-w-[10rem]">
                   Plastic Bag
                 </h1>
-                <h3 className="text-center text-[16px] text-[#222831]">
+                <h3 className="text-center text-[16px] text-[#222831] cursor-pointer hover:text-[23px] hover:font-semibold hover:text-[#016A70] hover:duration-300 duration-300">
                   Sell Now
                 </h3>
               </div>
@@ -131,7 +131,7 @@ const Selling = () => {
                 <h1 className="text-[20px] text-center font-[600] text-[#222831] max-w-[10rem]">
                   Plastic Bag
                 </h1>
-                <h3 className="text-center text-[16px] text-[#222831]">
+                <h3 className="text-center text-[16px] text-[#222831] cursor-pointer hover:text-[23px] hover:font-semibold hover:text-[#016A70] hover:duration-300 duration-300">
                   Sell Now
                 </h3>
               </div>
