@@ -22,13 +22,13 @@ const Hero = () => {
         <Navbar />
         <div className="flex w-[1400px] m-auto pt-24 items-center mr-2 gap-24">
           <div className="w-1/2 text pl-8">
-          {herosection.map((tab) => (<>
-            <h3 className="text-[28px] text-white font-semibold">{tab.first}</h3>
-            <h1 className=" text-[48px] text-white font-bold">{tab.second}
-            </h1>       
-            <p className=" text-[16px] text-white pt-2">
-            {tab.para}</p>
-          </>
+            {herosection.map((tab) => (<>
+              <h3 className="text-[28px] text-white font-semibold">{tab.first}</h3>
+              <h1 className=" text-[48px] text-white font-bold">{tab.second}
+              </h1>
+              <p className=" text-[16px] text-white pt-2">
+                {tab.para}</p>
+            </>
             ))}
             <button className="mt-7 text-white text-[16px] font-semibold border-2 px-5 py-2 rounded-xl">
               View Details
